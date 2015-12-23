@@ -15,11 +15,11 @@ export default class Home extends Component {
         </div>
 
         <div className="container">
-          <h3>Was ist fitbut</h3>
+          <h3>Infos</h3>
           <dl>
-            <dt>megageil</dt>
+            <dt>Base project for react web apps</dt>
             <dd>
-              fitbut ist dies das aber auf jeden Fall mega geil.
+              This is a base project for several react-redux websites.
             </dd>
           </dl>
           <Button label="react toolbox button" raised accent />
