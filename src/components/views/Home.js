@@ -21,6 +21,10 @@ export default class Home extends Component {
             <dd>
               This is a base project for several react-redux websites.
             </dd>
+            <dt>elbstack GmbH</dt>
+            <dd>
+              elbstack GmbH is a software development agency based in Hamburg, Germany.
+            </dd>
           </dl>
           <Button label="react toolbox button" raised accent />
         </div>
